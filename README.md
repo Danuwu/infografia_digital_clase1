@@ -1,2 +1,2 @@
-# infografia_digital_clase1
+# infografia_digital_entregas
 Entrega de primer ejercicio
